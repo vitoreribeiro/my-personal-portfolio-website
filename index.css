@@ -1,0 +1,110 @@
+body {
+    color: black;
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+
+.homepage {
+    font-size: 16px;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: unset;
+    padding: 16px 16px 100px 16px;
+    font-weight: 700;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+header img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 3px solid rgb(230, 230, 230);
+    
+}
+
+.center {
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    color:rgb(50, 50, 50)
+}
+h2 {
+    color:rgb(50, 50, 50)
+}
+
+h3 {
+    color: rgb(50, 50, 50)
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    justify-items: baseline; 
+    padding: 0px;
+    background-color: rgb(238, 238, 238);
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer a:hover {
+    color: black;
+    font-weight: 700;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+footer img {
+    margin-top: 8px;
+}
+.conteiner {
+    padding: 0px 20px;
+}
+
+
+
+nav {
+    background-color: rgb(230, 230, 230);
+    height: 50px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 4px -11px rgba(0, 0, 0, 0.25), inset 0px -5px 4px rgba(0, 0, 0, 0.25);
+     
+    
+    
+}
+
+nav a:hover {
+    color: white;
+    font-weight: 700;
+
+}
+
+nav img {
+    width: 25px;
+    height: 25px;
+}
+
+
